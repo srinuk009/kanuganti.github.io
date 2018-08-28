@@ -4,7 +4,7 @@ News at one Place ](https://m.dailyhunt.in/news/india/english)/) is a basic one 
 
 ## Preview
 
-[![One Page Wonder Preview](https://m.dailyhunt.in/news/india/english)]
+(https://m.dailyhunt.in/news/india/english)]
 
 **[View Live Preview](https://m.dailyhunt.in/news/india/english/)**
 
@@ -50,8 +50,8 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
+* https://m.dailyhunt.in/news/india/english
+* www.eenadu.net.
 
 
 ## Copyright and License
